@@ -2,10 +2,10 @@ package alluretests;
 
 import org.junit.jupiter.api.Test;
 
-public class PageObjectTest extends TestBase{
+public class PageObjectTest extends TestBase {
 
     @Test
-    public void objectTest(){
+    public void objectTest() {
 
         WebSteps webSteps = new WebSteps();
 
